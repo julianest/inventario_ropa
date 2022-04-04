@@ -1,0 +1,49 @@
+{
+  "ropa": [
+    {
+      "id": 1,
+      "categoria": "camisas",
+      "marca": "Polo",
+      "precio": "$30.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC_K9Pe078bXd0P_up2Y7zbjXzHYxByglDw&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "categoria": "zapatos",
+      "marca": "Channel",
+      "precio": "$50.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90MDGjXUIRFWT3UgmCKw2orvXh0ZwP-nTyw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "categoria": "pantalones",
+      "marca": "Anyday",
+      "precio": "$80.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzk3nH1BswQlsVoY163f3yF8VbR5d75qfAw&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "categoria": "camisas",
+      "marca": "camisitas",
+      "precio": "$80.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC_K9Pe078bXd0P_up2Y7zbjXzHYxByglDw&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "categoria": "zapatos",
+      "marca": "bobber",
+      "precio": "$100.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90MDGjXUIRFWT3UgmCKw2orvXh0ZwP-nTyw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "categoria": "pantalones",
+      "marca": "holy",
+      "precio": "$60.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzk3nH1BswQlsVoY163f3yF8VbR5d75qfAw&usqp=CAU"
+    },
+    {
+      "id": 7
+    }
+  ]
+}
